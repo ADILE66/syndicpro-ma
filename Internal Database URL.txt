@@ -1,0 +1,1 @@
+postgresql://syndicpro_db_user:86xmJB7RSKziOfq4lU5k5P0YMmTaY6x3@dpg-d59v0oumcj7s73ahkctg-a/syndicpro_db
